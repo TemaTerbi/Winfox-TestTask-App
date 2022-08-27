@@ -9,6 +9,7 @@
 - UiKit
 - SnapKit
 - Almofire
+- FireBase
 - YandexMapKit
 - MVVM
 
