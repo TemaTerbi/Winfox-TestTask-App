@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>431063225169-30p0dnin0jc8jt9ji2lhglm50qbeaal0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.431063225169-30p0dnin0jc8jt9ji2lhglm50qbeaal0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-Bh9nVMoolGoRdabs6B5xgyBdD2pFXS4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431063225169</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>TeRb1.WinfoxTestTaskApp</string>
+	<key>PROJECT_ID</key>
+	<string>cats-finder-ffe52</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cats-finder-ffe52.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431063225169:ios:2073ef6e89a79c0b997970</string>
+	<key>DATABASE_URL</key>
+	<string>https://cats-finder-ffe52-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
